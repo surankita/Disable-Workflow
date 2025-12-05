@@ -9,5 +9,5 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      -name: Suraj
-       run:echo "Disable Workflow Video Devops"
+      - name: Suraj
+        run: echo "Disable Workflow Video Devops"
